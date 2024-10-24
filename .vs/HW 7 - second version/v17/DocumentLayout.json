@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\entities\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\entities\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\database\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\database\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|c:\\users\\mahdi\\source\\repos\\hw 7 - second version\\hw 7 - second version\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593B21C-92AB-4FCD-852A-85CA9EB50062}|HW 7 - second version\\HW 7 - second version.csproj|solutionrelative:hw 7 - second version\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCard.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Entities\\ShoppingCard.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Entities\\ShoppingCard.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Entities\\ShoppingCard.cs",
+              "RelativeToolTip": "HW 7 - second version\\Entities\\ShoppingCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:26:24.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Enums\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "HW 7 - second version\\Enums\\StatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:34:01.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Services\\AdminServices.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Services\\AdminServices.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Services\\AdminServices.cs",
+              "RelativeToolTip": "HW 7 - second version\\Services\\AdminServices.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:53:21.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingService.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Services\\ShoppingService.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Services\\ShoppingService.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Services\\ShoppingService.cs",
+              "RelativeToolTip": "HW 7 - second version\\Services\\ShoppingService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:53:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Services\\AuthService.cs",
+              "RelativeToolTip": "HW 7 - second version\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:52:45.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Database\\Store.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Database\\Store.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Database\\Store.cs",
+              "RelativeToolTip": "HW 7 - second version\\Database\\Store.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:52:23.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Entities\\Product.cs",
+              "RelativeToolTip": "HW 7 - second version\\Entities\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:51:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Entities\\User.cs",
+              "RelativeToolTip": "HW 7 - second version\\Entities\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA7wBUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:51:39.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Program.cs",
+              "RelativeDocumentMoniker": "HW 7 - second version\\Program.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\HW 7 - second version\\HW 7 - second version\\Program.cs",
+              "RelativeToolTip": "HW 7 - second version\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:51:00.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

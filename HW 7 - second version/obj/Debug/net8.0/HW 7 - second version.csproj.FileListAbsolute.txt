@@ -1,0 +1,14 @@
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\bin\Debug\net8.0\HW 7 - second version.exe
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\bin\Debug\net8.0\HW 7 - second version.deps.json
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\bin\Debug\net8.0\HW 7 - second version.runtimeconfig.json
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\bin\Debug\net8.0\HW 7 - second version.dll
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\bin\Debug\net8.0\HW 7 - second version.pdb
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.AssemblyInfoInputs.cache
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.AssemblyInfo.cs
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.dll
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\refint\HW 7 - second version.dll
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.pdb
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\HW 7 - second version.genruntimeconfig.cache
+C:\Users\mahdi\source\repos\HW 7 - second version\HW 7 - second version\obj\Debug\net8.0\ref\HW 7 - second version.dll
